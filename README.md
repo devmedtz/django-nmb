@@ -1,1 +1,1 @@
-# nmb-python
+# Django-NMB
